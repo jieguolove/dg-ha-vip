@@ -1,2 +1,2 @@
-#add
+#edit /etc/rc.local, add the line,chmod +x /etc/rc.d/rc.local
 /etc/vip_check.sh > /dev/null 2>&1 &
