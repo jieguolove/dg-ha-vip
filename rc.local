@@ -1,0 +1,2 @@
+#add
+/etc/vip_check.sh > /dev/null 2>&1 &
